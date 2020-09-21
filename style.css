@@ -1,0 +1,24 @@
+#interface {
+     background-color: #808080;
+     border-radius: 10px;
+     border-color: #32F740;
+}
+#interface GtkNotebook {
+     background: #808080;
+     color: #0EFF00;
+}
+#interface GtkNotebook tab:active{
+     background: #000000;
+}
+#interface GtkNotebook not tab:active{
+     background: #FFFFFF;
+}
+#interface GtkToolbar {
+         background: #204A87;
+         color: #EEEEEC;
+}
+#interface GtkTextView {
+         background: #FFFFFF;
+         color: #000000;
+}
+
